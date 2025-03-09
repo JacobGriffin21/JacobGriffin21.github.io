@@ -1,6 +1,6 @@
 # JacobGriffin21.github.io
 
-## Introduction
+# Introduction
 
 ### Enhancement 1:
 - Artifact
