@@ -1,15 +1,15 @@
 # JacobGriffin21.github.io
 
-# Introduction
+## Introduction
 
-#Enhancement 1:
+### Enhancement 1:
 - Artifact
 - Changes 
 
-#Enhancement 2:
+### Enhancement 2:
 - Artifact
 - Changes
 
-#Enhancement 3:
+### Enhancement 3:
 - Artifact
 - Changes
