@@ -1,7 +1,11 @@
 # JacobGriffin21.github.io
 
-### Introduction
-Hello, My name is Jacob Griffin and I have been in the Computer Sceince program for 2 years. Throughout this github pages you will be able to see how I have leveraged my skills to improve previous projects and bring them up to professional standards.
+### Introduction/Prfoessional Assesment
+Hello, My name is Jacob Griffin and I have been in the Computer Sceince program at SNHU for 2 years. Throughout this Capstone course, it has showed me the strides I have made in the CS career field, as well as my concentration in Software Engineering. When reviewing this github pages you see will various artifacts that I have enhanced and now meet professional standards. There are software programs here that have been converted to cloud databases from local databases that had no chance in becoming scalable and offering a professional source to an organizaiton until the enhancement was made, and you will also see legacy code that was completely overridden and transfrmed into a more robust and effeiceint programming language that not only benefited the consumers, but the future developers and maintainers of the software.
+
+Throughout this course and previous courses, I have not only improved as a programmer, but I have adopted the ability to communicate effectively with other team members, stakeholders, etc. I am able to fully and completely understand what the consumer is wanting/needing and values in the product they are investing in. With that, I can brief stakeholders on progress of their appilcation, future updates, areas that need improvement, etc, but I have the skills to do this effectively with not just stakeholders, but as well as team leads, other development teams, which aids in a colloborative and cohesive workplace. 
+
+
 ### Enhancement 1:
 - Artifact
 - Changes 
