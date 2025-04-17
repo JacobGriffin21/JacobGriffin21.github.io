@@ -7,8 +7,3 @@ img[src*="jacob.jpg"] {
   margin: 0 auto;
 }
 
-header h1,
-header p {
-  padding-left: 100px;
-  text-align: left;
-}
