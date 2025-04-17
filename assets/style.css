@@ -23,4 +23,4 @@ img[alt*="logo"] {
   font-size: 18px;
   text-align: center;
   pointer-events: none; /* Ensures overlay text doesn’t interfere */
-}
+ }
