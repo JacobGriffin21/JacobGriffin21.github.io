@@ -1,7 +1,7 @@
 img[alt*="logo"] {
   border-radius: 50%;
-  width: 150px;
-  height: 150px;
+  width: auto; /* Automatically adjusts to the image's intrinsic size */
+  height: auto; /* Keeps the original height */
   object-fit: cover;
   display: block;
   margin: 0px;
@@ -9,8 +9,7 @@ img[alt*="logo"] {
 
 .profile-container {
   position: relative;
-  width: 150px;
-  height: 150px;
+  display: inline-block; /* Ensures the container wraps the image size */
 }
 
 .profile-text {
