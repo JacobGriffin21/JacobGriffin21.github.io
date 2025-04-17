@@ -6,3 +6,8 @@ img[src*="jacob.jpg"] {
   display: block;
   margin: 0 auto;
 }
+
+h1, h2 {
+  padding-left: 40px; /* adjust as needed */
+  text-align: left;
+}
