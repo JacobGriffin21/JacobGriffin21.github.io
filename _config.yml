@@ -3,8 +3,9 @@ logo: /assets/jacob.jpg
 description: CS 499 Student | Software Developer Intern
 theme: jekyll-theme-minimal
 head:
- custom:
-  - link: /assets/style.css
+  custom:
+    - link: /assets/style.css
+
 
 
 
