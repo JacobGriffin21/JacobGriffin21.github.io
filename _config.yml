@@ -1,4 +1,5 @@
-title: Jacob Griffin
-avatar: /assets/jacob.jpg
-description: CS 499 Student | Software Developer Intern
-theme: jekyll-theme-minimal
+author:
+  name: Jacob Griffin
+  bio: CS 499 Student | Software Developer Intern
+  avatar: /assets/jacob.jpg
+  theme: jekyll-theme-minimal
