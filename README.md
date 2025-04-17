@@ -1,6 +1,6 @@
 # JacobGriffin21.github.io
 
-#CS499 ePortfolio
+# CS499 ePortfolio
 
 ### Introduction/Professional Assesment
 Hello, My name is Jacob Griffin and I have been in the Computer Sceince program at SNHU for 2 years. Throughout this Capstone course, it has showed me the strides I have made in the CS career field, as well as my concentration in Software Engineering. When reviewing this github pages you see will various artifacts that I have enhanced and now meet professional standards. There are software programs here that have been converted to cloud databases from local databases that had no chance in becoming scalable and offering a professional source to an organizaiton until the enhancement was made, and you will also see legacy code that was completely overridden and transfrmed into a more robust and effeiceint programming language that not only benefited the consumers, but the future developers and maintainers of the software.
