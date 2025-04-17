@@ -8,5 +8,9 @@ defaults:
       path: ""
     values:
       css: "/assets/style.css"
+head:
+ custom:
+  - link: /assets/style.css
+
 
 
