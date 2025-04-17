@@ -1,7 +1,7 @@
 img[alt*="logo"] {
   border-radius: 50%;
-  width: auto; /* Automatically adjusts to the image's intrinsic size */
-  height: auto; /* Keeps the original height */
+  width: auto;
+  height: auto;
   object-fit: cover;
   display: block;
   margin: 0px;
@@ -9,15 +9,16 @@ img[alt*="logo"] {
 
 .profile-container {
   position: relative;
-  display: inline-block; /* Ensures the container wraps the image size */
+  display: inline-block; /* Wraps the image tightly */
 }
 
 .profile-text {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); /* Ensures true centering */
   color: white;
   font-size: 18px;
   text-align: center;
+  white-space: nowrap; /* Prevents text from breaking onto multiple lines */
 }
