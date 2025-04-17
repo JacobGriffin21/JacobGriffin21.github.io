@@ -4,6 +4,6 @@ img[alt*="logo"] {
   height: 150px;
   object-fit: cover;
   display: block;
-  margin: 0 auto;
+  margin: 10px;
 }
 
