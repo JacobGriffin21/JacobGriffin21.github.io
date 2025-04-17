@@ -1,26 +1,6 @@
-img[alt*="logo"] {
-  border-radius: 50%; /* Keeps the circular shape */
-  width: 150px !important; /* Enforce the specific width */
-  height: 150px !important; /* Enforce the specific height */
-  object-fit: cover; /* Crops the image if it's not square */
-  display: block;
-  margin: 0px;
+img[alt*="avatar"], img[alt*="Avatar"], img[alt*="Jacob"] {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
 }
-
-.profile-container {
-  position: relative;
-  display: inline-block; /* Wraps tightly around the image */
-  width: 150px; /* Matches the image width */
-  height: 150px; /* Matches the image height */
-}
-
-.profile-text {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  font-size: 18px;
-  text-align: center;
-  pointer-events: none; /* Ensures overlay text doesn’t interfere */
- }
