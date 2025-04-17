@@ -20,8 +20,15 @@ My enhancemnet allowed me to showcase skills in mnay areas such as test cases, i
 - CRUD unitTesting with Python built in Library to ensure correct functionality  
 
 ### Enhancement 2:
-- Artifact
-- Changes
+links to original and enhanced code 
+
+The second artifact comes from my CS 300 class where we created a program for a local auction that would store bids from consumers and output the winning bid utilizing a binary search stree data structure (BST). With this program, users would input their bid, and the program utilized a while loop to continue running until there were no more bids, and the boolean value flipped, causing the software to exit, and output the highest bidder. The original code used a BST to add, delete, and find bids. For this program it had a longer run time due to the restructuring of the BST when nodes were deleted.
+For my enhancement I implemented what is called a 'lazy deletion' method which no requires the restructuring of the tree when a node is deleted. The lazy deletion uses an algorithm where when a user deletes a bid, it flags the bid as deleted but it doesn't actually remove the node. Instead of removing the node, it marks the node as deleted, and it is no longer able to be found when searching for the bid, and the BST maintains its balanced structure, decreasing run time, and providing a more enhanced program for the users. The second enhancement I made for this program is converting it to Python from C++. Since does not utilize autmatic memory management, and Python does, due to the program needing to hold a large set of data, Python makes the best implementation as it will automatically manage the memory and redude the complexity of the code. With implementing Python, it made the code less comploex, more readable, and easier to maintain for future developers. 
+The course outcomes that are met with these two enhancements are employing strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science. I met this course outcome by providing well codumented code, providing less complex code and enabling to a diverse audience, resulting in collobartive opportunities. The improvemenmt also met two other curse outcomes which are design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices, and demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. I satisified both of these out comes by evaluating the current computing solution and implementing a solutin that would enhannce the user experience by utililzing algorithmic principles such as a BST with a 'lazy deletion' method, and I demonstrated by abilities to use well-founded innvoation techniques such as improving the run time by a new technique that is becoming widely popular amongst developers that use BST. 
+
+### Overview of Changes for Enhancement Two
+- Implemented Lazy deletion method to decrease runtime and maintain the BST integrity when bids are deleted
+- Converted the legacy code to Pyton 
 
 ### Enhancement 3:
 - Artifact
