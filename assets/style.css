@@ -1,17 +1,17 @@
 img[alt*="logo"] {
-  border-radius: 50%; /* Keeps the circular shape */
+  border-radius: 50%; /* Keeps the image circular */
   width: 150px; /* Explicitly sets the desired width */
   height: 150px; /* Explicitly sets the desired height */
   object-fit: cover; /* Ensures the image is cropped properly */
-  display: block;
-  margin: 0px;
+  display: block; /* Prevents unnecessary layout changes */
+  margin: 0px; /* Removes unwanted spacing */
 }
 
 .profile-container {
   position: relative;
-  display: inline-block; /* Prevents the container from resizing the image */
-  width: 150px; /* Matches the image dimensions */
-  height: 150px; /* Matches the image dimensions */
+  display: inline-block; /* Ensures no resizing */
+  width: 150px; /* Matches the exact dimensions of the image */
+  height: 150px; /* Matches the exact dimensions of the image */
 }
 
 .profile-text {
@@ -22,5 +22,6 @@ img[alt*="logo"] {
   color: white;
   font-size: 18px;
   text-align: center;
-  white-space: nowrap;
+  white-space: nowrap; /* Ensures the text doesn't break into multiple lines */
+  pointer-events: none; /* Prevents interaction interference */
 }
