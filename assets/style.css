@@ -1,32 +1,9 @@
-/* Container for profile image and overlay text */
-.profile-container {
-  position: relative;
-  width: 150px;         /* Set the size of the container */
-  height: 150px;        /* Set the size of the container */
-  margin: auto;         /* Center it horizontally */
+img[alt*="logo"] {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+  margin: 0px;
 }
-
-/* Style for the profile picture */
-.profile-pic {
-  width: 150px;         /* Set the width of the profile image */
-  height: 150px;        /* Set the height of the profile image */
-  border-radius: 50%;   /* Make the image circular */
-  object-fit: cover;    /* Ensure the image covers the area properly */
-  display: block;       /* Make sure the image behaves like a block element */
-}
-
-/* Style for the text overlay */
-.overlay-text {
-  position: absolute;               /* Position it over the image */
-  top: 50%;                         /* Center it vertically */
-  left: 50%;                        /* Center it horizontally */
-  transform: translate(-50%, -50%); /* Adjust the position to be exactly centered */
-  color: white;                     /* Text color */
-  font-size: 1.2rem;                /* Text size */
-  font-weight: bold;                /* Make the text bold */
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6); /* Add a shadow for readability */
-  pointer-events: none;             /* Prevent the text from blocking clicks */
-  text-align: center;               /* Center the text */
-}
-
 
