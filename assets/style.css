@@ -7,3 +7,18 @@ img[alt*="logo"] {
   margin: 0px;
 }
 
+.profile-container {
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+
+.profile-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
