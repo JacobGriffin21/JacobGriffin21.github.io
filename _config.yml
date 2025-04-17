@@ -2,9 +2,7 @@ title: Jacob Griffin
 logo: /assets/jacob.png
 description: CS 499 Student | Software Developer Intern
 theme: jekyll-theme-minimal
-head:
-  custom:
-    - link: /assets/style.css
+
 
 
 
