@@ -8,6 +8,6 @@ img[src*="jacob.jpg"] {
 }
 
 h1, h2 {
-  padding-left: 50px; /* adjust as needed */
+  padding-left: 80px; /* adjust as needed */
   text-align: left;
 }
