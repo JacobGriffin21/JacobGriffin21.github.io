@@ -7,10 +7,6 @@ img[src*="jacob.jpg"] {
   margin: 0 auto;
 }
 
-.wrapper {
-  max-width: 100%;
-}
-
 h1, h2 {
   text-align: left;
   padding-left: 100px; /* adjust as needed */
