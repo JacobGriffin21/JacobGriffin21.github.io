@@ -9,16 +9,16 @@ img[alt*="logo"] {
 
 .profile-container {
   position: relative;
-  display: inline-block; /* Wraps the image tightly */
+  display: inline-block;
 }
 
 .profile-text {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%); /* Ensures true centering */
+  transform: translate(-50%, -50%);
   color: white;
   font-size: 18px;
   text-align: center;
-  white-space: nowrap; /* Prevents text from breaking onto multiple lines */
+  white-space: nowrap;
 }
