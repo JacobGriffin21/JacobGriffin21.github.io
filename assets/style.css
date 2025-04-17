@@ -1,4 +1,4 @@
-img[alt*="logo"], img[alt*="Logo"], img[alt*="Jacob"] {
+img[alt*="logo"] {
   border-radius: 50%;
   width: 150px;
   height: 150px;
