@@ -1,6 +1,8 @@
-img[alt*="avatar"], img[alt*="Avatar"], img[alt*="Jacob"] {
+img[src*="jacob.jpg"] {
   border-radius: 50%;
   width: 150px;
   height: 150px;
   object-fit: cover;
+  display: block;
+  margin: 0 auto;
 }
