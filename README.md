@@ -12,6 +12,7 @@ Link:
 [https://youtu.be/P7IM1piKQ7Q](https://youtu.be/P7IM1piKQ7Q)
 
 ### Enhancement 1:
+Link to Original Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%201%20original%20Code](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%201%20original%20Code)
 Link to Enhanced Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20One](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20One)
 
 The first artifact comes from my CS 340 class and satisfies the Software Engineering and Design category. For this artifact we created a program for an Animal Shelter that housed dogs. The program provided a dashboard to users where they could filter by the type of rescue dog they were. Within the dashboard there was also a geo map that allowed the consumer to be able to see the location of all the dogs within the animal shelter. Users had the ability to create, read, update, or delete animals, this is where the program used the CRUD method. The original software had no type of testing to ensure that the four methods were functiopning correctly. This is where the enhancement I implemented comes into play. 
