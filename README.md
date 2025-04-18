@@ -12,8 +12,8 @@ Link:
 [https://youtu.be/P7IM1piKQ7Q](https://youtu.be/P7IM1piKQ7Q)
 
 ### Enhancement 1:
-Link to Original Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%201%20original%20Code]
-(https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%201%20original%20Code)
+Link to Original Code: 
+[https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%201%20original%20Code](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%201%20original%20Code)
 
 Link to Enhanced Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20One](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20One)
 
