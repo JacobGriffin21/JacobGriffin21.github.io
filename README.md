@@ -9,7 +9,7 @@ Throughout this course and previous courses, I have not only improved as a progr
 
 ### Code Review:
 Link:<br>
-[https://youtu.be/P7IM1piKQ7Q](https://youtu.be/P7IM1piKQ7Q) 
+[https://youtu.be/P7IM1piKQ7Q](https://youtu.be/P7IM1piKQ7Q)<br><br><br>
 
 
 ### Enhancement 1:
@@ -24,7 +24,7 @@ I created four unitTest with the Python built in library that verified that all 
 My enhancemnet allowed me to showcase skills in mnay areas such as test cases, identifying all the testable componenets within code, ensure functionality before deployment, and provide an improvement that will be beneifical both to the users and the future developers. This enhancement also satisfied the course outcomes of design, develop, and deliver professional-quality oral, written, and visual communication that are coherent, technically sound and appropriately adapted to specific audiences and contexts. This outcome is satisfied because my code is well documented, it is professional quality, and is specific to the audience of software developers that will benefit from this implementation. I also satisfied the course outcome that demonstrates and ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliveer value and accomplish indsutry specific goals. Not only does my enhancement satisfy the previous course outcomes, it satisfies that outcome that i have developed a security mindset as unitTesting ensure proper functioning and leaves no vulnerabtilty for threats. 
 
 ### Overview of Changes for Enhancement One
-- CRUD unitTesting implementation with Python built in Library to ensure correct functionality
+- CRUD unitTesting implementation with Python built in Library to ensure correct functionality<br><br><br>
 
 
 ### Enhancement 2:
@@ -40,7 +40,7 @@ The course outcomes that are met with these two enhancements are employing strat
 
 ### Overview of Changes for Enhancement Two
 - Implemented Lazy deletion method to decrease runtime and maintain the BST integrity when bids are deleted
-- Converted the legacy code to Pyton
+- Converted the legacy code to Pyton<br><br><br>
 
 
 ### Enhancement 3:
