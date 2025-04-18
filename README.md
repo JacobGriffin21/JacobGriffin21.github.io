@@ -42,6 +42,7 @@ The course outcomes that are met with these two enhancements are employing strat
 
 ### Enhancement 3:
 Link to Original Code: 
+[https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%203%20Original%20Code](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%203%20Original%20Code)
 
 Link to Enhanced Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20Three](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20Three)
 
