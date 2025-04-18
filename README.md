@@ -9,7 +9,8 @@ Throughout this course and previous courses, I have not only improved as a progr
 
 ### Code Review:
 Link:
-[https://youtu.be/P7IM1piKQ7Q](https://youtu.be/P7IM1piKQ7Q)
+[https://youtu.be/P7IM1piKQ7Q](https://youtu.be/P7IM1piKQ7Q) 
+<br>
 
 ### Enhancement 1:
 Link to Original Code: 
@@ -24,9 +25,8 @@ My enhancemnet allowed me to showcase skills in mnay areas such as test cases, i
 
 ### Overview of Changes for Enhancement One
 - CRUD unitTesting implementation with Python built in Library to ensure correct functionality
-
-  
-
+<br>
+<br>
 ### Enhancement 2:
 Link to Original Code: 
 [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%202%20Original%20Code](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%202%20Original%20Code)
@@ -41,10 +41,8 @@ The course outcomes that are met with these two enhancements are employing strat
 ### Overview of Changes for Enhancement Two
 - Implemented Lazy deletion method to decrease runtime and maintain the BST integrity when bids are deleted
 - Converted the legacy code to Pyton
-
-
-  
-
+<br>
+<br>
 ### Enhancement 3:
 Link to Original Code: 
 [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%203%20Original%20Code](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%203%20Original%20Code)
