@@ -46,9 +46,8 @@ Link to Original Code:
 
 Link to Enhanced Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20Three](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20Three)
 
-Vidoe Link Showing the Cloud Server: 
+Vidoe Link Showing the Cloud Server: [https://youtu.be/8p6fGAb_p84](https://youtu.be/8p6fGAb_p84)  
 
-[https://youtu.be/8p6fGAb_p84](https://youtu.be/8p6fGAb_p84)
 
 
 The third and final artifact also comes from CS 340 class. This artifact and enhancement satisfies the databases category. For this artifact we created a program for an Animal Shelter that housed dogs. The program provided a dashboard to users where they could filter by the type of rescue dog they were. Within the dashboard there was also a geo map that allowed the consumer to be able to see the location of all the dogs within the animal shelter. Users had the ability to create, read, update, or delete animals, this is where the program utilized the CRUD method. This program utilized a local MongoDB database the had no opportunity to scale or handle large datsets. The original database that was utilized would have to be manually scaled and downscaled, resulting in unnecessary work on the developers. 
