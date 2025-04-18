@@ -8,9 +8,9 @@ Hello, My name is Jacob Griffin and I have been in the Computer Sceince program 
 Throughout this course and previous courses, I have not only improved as a programmer, but I have adopted the ability to communicate effectively with other team members, stakeholders, etc. I am able to fully and completely understand what the consumer is wanting/needing and values in the product they are investing in. With that, I can brief stakeholders on progress of their appilcation, future updates, areas that need improvement, etc, but I have the skills to do this effectively with not just stakeholders, but as well as team leads, other development teams, which aids in a colloborative and cohesive workplace. Following this introduction you will see an overview of my 3 artifacts with 3 enhancements that include following, Artifact 1 is from my CS 340 course where I added Unit Testing for a CRUD module that stored dogs from an animal shelter, the 2nd Artifact is from my CS 300 course where I implemented a 'lazy deletion' method inside a Binary Search Tree, and the 3rd Artifact is also from CS340 course where I converted a local MONGODB database into a MONGODB Atlas cloud server. 
 
 ### Code Review:
-Link:
+Link:<br>
 [https://youtu.be/P7IM1piKQ7Q](https://youtu.be/P7IM1piKQ7Q) 
-<br>
+
 
 ### Enhancement 1:
 Link to Original Code: 
@@ -25,8 +25,8 @@ My enhancemnet allowed me to showcase skills in mnay areas such as test cases, i
 
 ### Overview of Changes for Enhancement One
 - CRUD unitTesting implementation with Python built in Library to ensure correct functionality
-<br>
-<br>
+
+
 ### Enhancement 2:
 Link to Original Code: 
 [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%202%20Original%20Code](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%202%20Original%20Code)
@@ -41,8 +41,8 @@ The course outcomes that are met with these two enhancements are employing strat
 ### Overview of Changes for Enhancement Two
 - Implemented Lazy deletion method to decrease runtime and maintain the BST integrity when bids are deleted
 - Converted the legacy code to Pyton
-<br>
-<br>
+
+
 ### Enhancement 3:
 Link to Original Code: 
 [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%203%20Original%20Code](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%203%20Original%20Code)
