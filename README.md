@@ -12,7 +12,9 @@ Link:
 [https://youtu.be/P7IM1piKQ7Q](https://youtu.be/P7IM1piKQ7Q)
 
 ### Enhancement 1:
-Link to Original Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%201%20original%20Code](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%201%20original%20Code)
+Link to Original Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%201%20original%20Code]
+(https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Artifact%201%20original%20Code)
+
 Link to Enhanced Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20One](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20One)
 
 The first artifact comes from my CS 340 class and satisfies the Software Engineering and Design category. For this artifact we created a program for an Animal Shelter that housed dogs. The program provided a dashboard to users where they could filter by the type of rescue dog they were. Within the dashboard there was also a geo map that allowed the consumer to be able to see the location of all the dogs within the animal shelter. Users had the ability to create, read, update, or delete animals, this is where the program used the CRUD method. The original software had no type of testing to ensure that the four methods were functiopning correctly. This is where the enhancement I implemented comes into play. 
@@ -24,7 +26,7 @@ My enhancemnet allowed me to showcase skills in mnay areas such as test cases, i
 - CRUD unitTesting with Python built in Library to ensure correct functionality  
 
 ### Enhancement 2:
-links to original and enhanced code 
+Link to Original Code:  
 
 The second artifact comes from my CS 300 class and satisfies the Algoithms and Data Structures category, for this artifact we created a program for a local auction that would store bids from consumers and output the winning bid utilizing a binary search stree data structure (BST). With this program, users would input their bid, and the program utilized a while loop to continue running until there were no more bids, and the boolean value flipped, causing the software to exit, and output the highest bidder. The original code used a BST to add, delete, and find bids. For this program it had a longer run time due to the restructuring of the BST when nodes were deleted.
 
