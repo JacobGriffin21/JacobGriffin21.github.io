@@ -28,7 +28,7 @@ My enhancemnet allowed me to showcase skills in mnay areas such as test cases, i
 ### Enhancement 2:
 Link to Original Code:
 
-Link to Enhanced Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20Two[(https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20Two)
+Link to Enhanced Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20Two](https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20Two)
 
 The second artifact comes from my CS 300 class and satisfies the Algoithms and Data Structures category, for this artifact we created a program for a local auction that would store bids from consumers and output the winning bid utilizing a binary search stree data structure (BST). With this program, users would input their bid, and the program utilized a while loop to continue running until there were no more bids, and the boolean value flipped, causing the software to exit, and output the highest bidder. The original code used a BST to add, delete, and find bids. For this program it had a longer run time due to the restructuring of the BST when nodes were deleted.
 
