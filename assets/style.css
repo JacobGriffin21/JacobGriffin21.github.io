@@ -1,7 +1,7 @@
 img[src*="jacob.png"] {
   border-radius: 0 !important;
   width: 300px;
-  height: 150px;
+  height: 300px;
   object-fit: cover;
   display: block;
   margin: 0 auto;
