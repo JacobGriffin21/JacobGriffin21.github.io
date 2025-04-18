@@ -1,9 +1,11 @@
 img[src*="jacob.png"] {
+  border-radius: 0 !important;
   width: 150px;
   height: 150px;
   object-fit: cover;
   display: block;
   margin: 0 auto;
 }
+
 
 
