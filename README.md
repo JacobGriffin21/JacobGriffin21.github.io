@@ -23,10 +23,12 @@ I created four unitTest with the Python built in library that verified that all 
 My enhancemnet allowed me to showcase skills in mnay areas such as test cases, identifying all the testable componenets within code, ensure functionality before deployment, and provide an improvement that will be beneifical both to the users and the future developers. This enhancement also satisfied the course outcomes of design, develop, and deliver professional-quality oral, written, and visual communication that are coherent, technically sound and appropriately adapted to specific audiences and contexts. This outcome is satisfied because my code is well documented, it is professional quality, and is specific to the audience of software developers that will benefit from this implementation. I also satisfied the course outcome that demonstrates and ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliveer value and accomplish indsutry specific goals. Not only does my enhancement satisfy the previous course outcomes, it satisfies that outcome that i have developed a security mindset as unitTesting ensure proper functioning and leaves no vulnerabtilty for threats. 
 
 ### Overview of Changes for Enhancement One
-- CRUD unitTesting with Python built in Library to ensure correct functionality  
+- CRUD unitTesting implementation with Python built in Library to ensure correct functionality  
 
 ### Enhancement 2:
-Link to Original Code:  
+Link to Original Code:
+
+Link to Enhanced Code: [https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20Two[(https://github.com/JacobGriffin21/JacobGriffin21.github.io/tree/main/Enhancement%20Two)
 
 The second artifact comes from my CS 300 class and satisfies the Algoithms and Data Structures category, for this artifact we created a program for a local auction that would store bids from consumers and output the winning bid utilizing a binary search stree data structure (BST). With this program, users would input their bid, and the program utilized a while loop to continue running until there were no more bids, and the boolean value flipped, causing the software to exit, and output the highest bidder. The original code used a BST to add, delete, and find bids. For this program it had a longer run time due to the restructuring of the BST when nodes were deleted.
 
